@@ -1,6 +1,8 @@
 # Showwboard
 Showwboard is a website on which you can check your Showwcase account analytics.
 
+> ⚠️ This project was originally developed and published under [my old GitHub account](https://github.com/swapn652/Showwboard), which I no longer have access to.
+
 # Made using Showwcase API
 Here's the link to docs: https://docs.showwcase.com/
 
